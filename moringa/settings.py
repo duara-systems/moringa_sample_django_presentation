@@ -27,8 +27,7 @@ SECRET_KEY = 'f2=(qt)4cmpklin&(b&kp2d-rsia11akbh2pyeftkf)6cdnzlz'
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 ALLOWED_HOSTS = [
-    'localhost',
-    '102.164.56.58'
+    '*'
 ]
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
